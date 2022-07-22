@@ -1,0 +1,8 @@
+field 1: temperatura exterior
+field 2: humedad exterior
+field 3: temperatura interior
+field 4: intensidad de viento
+field 5: dirección de viento
+field 6: promedio voltage panel solar (2 paneles en paralelo)
+field 7: corriente panel solar
+field 8: promedio voltage batería (2 baterías en paralelo)
